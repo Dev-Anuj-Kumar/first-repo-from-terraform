@@ -1,2 +1,2 @@
-# first-repo-from-terraform manually changed
+# first-repo-from-terraform
 For Terraform mannually changed
